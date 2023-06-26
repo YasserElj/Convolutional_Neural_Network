@@ -8,10 +8,11 @@ The MNIST dataset consists of 60,000 training images and 10,000 test images of h
 
 # CNN Model Architecture
 
-The CNN model used for this handwritten digit recognition system has the following architecture:
+The general architecture of cnn : 
 
 ![image](https://github.com/YasserElj/Convolutional_Neural_Network/assets/61060853/6a3f2b65-25bc-4807-9d17-32664aada2d2)
 
+The CNN model used for this handwritten digit recognition system has the following architecture:
 
 ```python
 cnn = models.Sequential([
